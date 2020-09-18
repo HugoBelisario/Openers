@@ -75,6 +75,8 @@ To further look into how effective the “opener” and “headliner” is, I lo
 ### Runs Test
 
 Let Yt denote the number of earned runs allowed by Ryan Yarbrough in game t of the 2018-2019 MLB Seasons where he pitched as a headliner.
+
+![alt text](https://github.com/HugoBelisario/OpenersAndHeadliners/blob/master/Visualizations/unnamed-chunk-5-1.png)
   
 The p-value of the test is 0.4297 so there is no evidence to reject the null hypothesis that Yarbrough’s game-by-game earned run values is an observed sequence of i.i.d. random variables.
 Observations equal to the median of 2 earned runs were dropped from the analysis, leading to n = 15. The expected number of earned runs is approx. 15/2 = 7.5 so that the observed number is slightly less than the expected under the null hypothesis. 
