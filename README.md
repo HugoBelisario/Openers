@@ -181,6 +181,6 @@ Comparing wOBA, FIP, and other statistics from these openers and headliners to o
 
 Once WAR (Wins Above Replacement) calculations are finalized for these pitchers, one can analyze their true value or at least close to it. 
 
-## PowerPoint Presentation
+## POWERPOINT PRESENTATION
 
 https://docs.google.com/presentation/d/1SfsL0zsVliphBkcEiDg39gnNVnq7df-apCVVpaDPDoQ/edit?usp=sharing
