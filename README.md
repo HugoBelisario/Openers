@@ -173,6 +173,8 @@ Overall, it is still extremely difficult to encompass all of this information an
 ## SUGGESTIONS FOR FURTHER ANALYSIS
 
 Suggestions include:
-•	Waiting until the end of this 2019 season to observe more “opener” and “headliner” games.
-•	Comparing wOBA, FIP, and other statistics from these openers and headliners to overall team pitching.
-•	Once WAR (Wins Above Replacement) calculations are finalized for these pitchers, one can analyze their true value or at least close to it. 
+Waiting until the end of this 2019 season to observe more “opener” and “headliner” games.
+
+Comparing wOBA, FIP, and other statistics from these openers and headliners to overall team pitching.
+
+Once WAR (Wins Above Replacement) calculations are finalized for these pitchers, one can analyze their true value or at least close to it. 
