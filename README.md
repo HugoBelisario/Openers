@@ -180,3 +180,7 @@ Waiting until the end of this 2019 season to observe more “opener” and “he
 Comparing wOBA, FIP, and other statistics from these openers and headliners to overall team pitching.
 
 Once WAR (Wins Above Replacement) calculations are finalized for these pitchers, one can analyze their true value or at least close to it. 
+
+## PowerPoint Presentation
+
+https://docs.google.com/presentation/d/1SfsL0zsVliphBkcEiDg39gnNVnq7df-apCVVpaDPDoQ/edit?usp=sharing
